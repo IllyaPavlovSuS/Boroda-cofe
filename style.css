@@ -1,0 +1,102 @@
+body{
+    font-family: sans-serif;
+    font-size: 34px;
+    background-color: rgb(52, 38, 3);
+}
+
+.logo{
+    border-radius: 50px;
+}
+nav{
+    padding: 20px;
+}
+
+nav a{
+    border: 5px solid rgb(104, 83, 0);
+    color:black;
+    text-decoration: none;
+    margin: 20px;
+    background-color: Goldenrod;
+    border-radius: 10px;
+    padding: 7px;
+}
+
+footer{
+    background-color: Goldenrod;
+    padding: 10px;
+}
+
+header{
+    background-color: black;
+}
+
+main p{
+    background-color: DarkGoldenRod;
+    border-radius:10px;
+}
+
+.pronas{
+    border: 5px solid;
+    margin: 20px;
+    border-radius: 10px;
+    padding: 7px;
+}
+
+h2{
+    width: 205px;
+    background-color: goldenrod;
+}
+
+main{
+    background-color: #9e8c26
+    
+}
+
+.grafick2{
+    background-color: DarkGoldenRod;
+     border: 5px solid;
+    margin: 20px;
+    border-radius: 10px;
+    padding: 7px;
+}
+
+.grafick{
+     border: 5px solid;
+    margin: 20px;
+    border-radius: 10px;
+    padding: 7px;
+    width: 180px;
+}
+
+.nopeLOL{
+     border: 5px solid;
+    margin: 20px;
+    border-radius: 10px;
+    padding: 7px;
+}
+
+footer p{
+     border: 5px solid;
+    margin: 20px;
+    border-radius: 10px;
+    padding: 7px;
+    background-color: darkgoldenrod;
+}
+
+.nopeLOL1{
+    width: 130px;
+    border: 5px solid;
+    margin: 20px;
+    border-radius: 10px;
+    padding: 7px;
+}
+
+main img{
+    width: 700px;
+    margin: 0 auto;
+    border-radius: 50px;
+}
+main h1{
+    text-align: center;
+}
+
